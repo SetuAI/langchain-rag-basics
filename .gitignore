@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+venv/
+.venv/
+
+# ChromaDB — vector store, don't push this
+chroma_db/
+chroma_gpt1/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# API keys / secrets
+.env
+*.env
+
+# OS
+.DS_Store
+Thumbs.db
